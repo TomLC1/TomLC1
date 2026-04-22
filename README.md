@@ -33,5 +33,5 @@ I build simple and efficient solutions to **clean, analyze, and automate data wo
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="Tomas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TomLC1&show_icons=true&theme=radical" alt="Tomas's GitHub Stats" />
 </p>
