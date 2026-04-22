@@ -31,7 +31,3 @@ I build simple and efficient solutions to **clean, analyze, and automate data wo
 - **Upwork:** [Coming Soon]
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomLC1&show_icons=true&theme=radical" alt="Tomas's GitHub Stats" />
-</p>
